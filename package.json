@@ -1,0 +1,23 @@
+{
+  "name": "string-concat",
+  "version": "1.0.0",
+  "description": "concats the string and provides a single string output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john310897/string-concat.git"
+  },
+  "keywords": [
+    "String",
+    "concat"
+  ],
+  "author": "John J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john310897/string-concat/issues"
+  },
+  "homepage": "https://github.com/john310897/string-concat#readme"
+}
