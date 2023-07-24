@@ -2,11 +2,11 @@
 
 ## Installation
 
-npm install string-concat
+npm install array-string-concat
 
 ## usage
 
-import { stringConcat } from 'string-concat'
+import { stringConcat } from 'array-string-concat'
 
 ### Concat array of strings
 

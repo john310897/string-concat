@@ -1,5 +1,5 @@
 {
-  "name": "string-concat",
+  "name": "array-string-concat",
   "version": "1.0.0",
   "description": "concats the string and provides a single string output",
   "main": "index.js",
